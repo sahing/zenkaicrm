@@ -1,1 +1,1 @@
-alert("Welcome DukInfo Crm");
+console.log("Welcome DukInfo Crm");
